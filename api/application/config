@@ -1,0 +1,162 @@
+{
+  "status": 1,
+  "privacy_status": 1,
+  "api_url": "https://app.irannezhadshop.ir/api/",
+  "server_url": null,
+  "configs": [
+    {
+      "type": 1,
+      "status": 1
+    },
+    {
+      "type": 2,
+      "status": 0
+    },
+    {
+      "type": 3,
+      "status": 0
+    },
+    {
+      "type": 4,
+      "status": 1
+    },
+    {
+      "type": 5,
+      "status": 1
+    },
+    {
+      "type": 6,
+      "status": 0
+    },
+    {
+      "type": 7,
+      "status": 1
+    },
+    {
+      "type": 8,
+      "status": 1
+    },
+    {
+      "type": 9,
+      "status": 1
+    },
+    {
+      "type": 10,
+      "status": 1
+    },
+    {
+      "type": 11,
+      "status": 0
+    },
+    {
+      "type": 12,
+      "status": 0
+    },
+    {
+      "type": 13,
+      "status": 1
+    },
+    {
+      "type": 14,
+      "status": 0
+    },
+    {
+      "type": 15,
+      "status": 0
+    },
+    {
+      "type": 16,
+      "status": 1
+    },
+    {
+      "type": 17,
+      "status": 1
+    },
+    {
+      "type": 18,
+      "status": 0
+    },
+    {
+      "type": 19,
+      "status": 0
+    },
+    {
+      "type": 20,
+      "status": 0
+    },
+    {
+      "type": 21,
+      "status": 1
+    },
+    {
+      "type": 22,
+      "status": 1
+    },
+    {
+      "type": 23,
+      "status": 1
+    },
+    {
+      "type": 24,
+      "status": 1
+    },
+    {
+      "type": 25,
+      "status": 0
+    },
+    {
+      "type": 26,
+      "status": 0
+    },
+    {
+      "type": 27,
+      "status": 1
+    },
+    {
+      "type": 28,
+      "status": 1
+    },
+    {
+      "type": 29,
+      "status": 0
+    },
+    {
+      "type": 30,
+      "status": 0
+    },
+    {
+      "type": 31,
+      "status": 0
+    },
+    {
+      "type": 32,
+      "status": 0
+    },
+    {
+      "type": 33,
+      "status": 1
+    },
+    {
+      "type": 34,
+      "status": 0
+    },
+    {
+      "type": 35,
+      "status": 1
+    },
+    {
+      "type": 36,
+      "status": 1
+    },
+    {
+      "type": 37,
+      "status": 0
+    },
+    {
+      "type": 38,
+      "status": 1
+    }
+  ],
+  "msg": "",
+  "uuid": "9da403ff-a4f1-42f8-b4d8-c74236153ac5"
+}
